@@ -1,1 +1,1 @@
-The prices of rental bikes in a city are predicted based on some independent factors using Linear Regression.
+The prices of rental bikes in a city are predicted based on some independent factors using Linear Regression. Essential variables were derived from the data using one-hot encoding, RFE, and feature scaling.
